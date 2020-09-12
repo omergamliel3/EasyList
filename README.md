@@ -1,4 +1,4 @@
-# EasyList
+# EasyList <img src="Assets/Images/app-icon.png" width="90px" align = center />
 
 A social shopping list app.
 

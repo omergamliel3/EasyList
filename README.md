@@ -1,6 +1,6 @@
 # EasyList
 
-A social shopping list app Flutter project.
+A social shopping list app.
 
 Developed during Flutter [Udemy course](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/).
 

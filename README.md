@@ -28,6 +28,6 @@ Developed during Flutter [Udemy course](https://www.udemy.com/course/learn-flutt
 
 # Author 🙋
 
--   **Omer Gamliel** - 
+-   **Omer Gamliel** - [LinkedIn](https://www.linkedin.com/in/omer-gamliel-6a813a188/)
 
 
